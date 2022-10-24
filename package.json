@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/lemonde/angular-ckeditor",
   "devDependencies": {
-    "bower": "~1.7.2",
     "chai": "~3.4.1",
     "chai-jquery": "~2.0.0",
     "grunt": "~0.4.4",
